@@ -1,179 +1,388 @@
 var SETDEX_SV = {
-    "Ditto": {
-        "Youngster Calvin": {
+    "Butterfree": {
+        "Bug Catcher Rick": {
             "level": 12,
             "ivs": null,
-            "item": "Oran Berry",
-            "ability": "Imposter",
-            "nature": "Bold",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Transform"
-            ],
-            "index": 0
-        }
-    },
-    "Yanma": {
-        "Bug Catchter Rick": {
-            "level": 12,
-            "ivs": null,
-            "item": "Oran Berry",
-            "ability": "Speed Boost",
+            "item": "Lum Berry",
+            "ability": "Compound Eyes",
             "nature": "Hardy",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Sonic Boom",
+                "Sleep Powder",
+                "Psybeam"
+            ],
+            "index": 0
+        }
+    },
+    "Beedrill": {
+        "Bug Catcher Rick": {
+            "level": 12,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Sniper",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
                 "Bug Bite",
-                "Aerial Ace"
+                "Poison Tail"
             ],
             "index": 1
         }
     },
-    "Rellor": {
-        "Bug Catchter Rick": {
-            "level": 13,
+    "Nincada": {
+        "Bug Catcher Doug": {
+            "level": 12,
             "ivs": null,
             "item": "Berry Juice",
-            "ability": "Shed Skin",
-            "nature": "Careful",
+            "ability": "Compound Eyes",
+            "nature": "Adamant",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Sand Attack",
-                "Defend Curl",
-                "Rollout"
+                "Bug Bite",
+                "Dig"
             ],
             "index": 2
         }
     },
-    "Nincada": {
-        "Bug Catchter Rick": {
-            "level": 13,
+    "Dwebble": {
+        "Bug Catcher Doug": {
+            "level": 12,
             "ivs": null,
-            "item": "Muscle Band",
-            "ability": "Compound Eyes",
-            "nature": "Brave",
+            "item": "Oran Berry",
+            "ability": "Sturdy",
+            "nature": "Serious",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Dig",
                 "Bug Bite",
-                "Fury Swipes"
+                "Rock Throw"
             ],
             "index": 3
         }
     },
-    "Chikorita": {
-        "Youngster Allen": {
+    "Pikachu": {
+        "Bug Catcher Doug": {
             "level": 12,
             "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Static",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shock Wave",
+                "Double Team"
+            ],
+            "index": 4
+        }
+    },
+    "Sizzlipede": {
+        "Bug Catcher Anthony": {
+            "level": 12,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Flame Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flame Wheel",
+                "Bug Bite"
+            ],
+            "index": 5
+        }
+    },
+    "Whirlipede": {
+        "Bug Catcher Anthony": {
+            "level": 12,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poison Tail",
+                "Protect"
+            ],
+            "index": 6
+        }
+    },
+    "Trapinch": {
+        "Bug Catcher Anthony": {
+            "level": 12,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Hyper Cutter",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sand Tomb",
+                "Bite"
+            ],
+            "index": 7
+        }
+    },
+    "Scyther": {
+        "Bug Catcher Sammy": {
+            "level": 14,
+            "ivs": null,
             "item": "Oran Berry",
+            "ability": "Technician",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fury Cutter",
+                "Quick Attack",
+                "Wing Attack"
+            ],
+            "index": 8
+        }
+    },
+    "Kricketune": {
+        "Bug Catcher Sammy": {
+            "level": 14,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Technician",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Bite",
+                "Cut",
+                "Trailblaze"
+            ],
+            "index": 9
+        }
+    },
+    "Chespin": {
+        "Potato-Pewter City": {
+            "level": 15,
+            "ivs": null,
+            "item": "Eviolite",
             "ability": "Overgrow",
             "nature": "Hardy",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Giga Drain",
-                "Synthesis"
+                "Rock Tomb",
+                "Bite",
+                "Grassy Glide"
             ],
-            "index": 4
+            "index": 10
         }
     },
-    "Bunnelby": {
-        "Youngster Allen": {
-            "level": 12,
+    "Taillow": {
+        "Potato-Pewter City": {
+            "level": 15,
             "ivs": null,
-            "item": "Oran Berry",
-            "ability": "Cheek Pouch",
-            "nature": "Impish",
+            "item": "Silk Scarf",
+            "ability": "Guts",
+            "nature": "Hardy",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Flail",
-                "Bulk Up"
+                "Facade",
+                "Aerial Ace"
             ],
-            "index": 5
+            "index": 11
         }
     },
-    "Wingull": {
-        "Girl Shaw": {
-            "level": 12,
+    "Shuppet": {
+        "Potato-Pewter City": {
+            "level": 15,
             "ivs": null,
             "item": "Oran Berry",
-            "ability": "Hydration",
-            "nature": "Quite",
+            "ability": "Cursed Body",
+            "nature": "Hardy",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Water Gun",
-                "Air Cutter"
+                "Thief",
+                "Will-O-Wisp",
+                "Hex"
             ],
-            "index": 6
+            "index": 12
         }
     },
-    "Psyduck": {
-        "Girl Shaw": {
-            "level": 12,
+    "Smeargle": {
+        "Potato-Pewter City": {
+            "level": 15,
             "ivs": null,
-            "item": "Oran Berry",
-            "ability": "Damp",
+            "item": null,
+            "ability": "Moddy",
             "nature": "Hardy",
             "teraType": null,
             "status": "Healthy",
             "moves": [
                 "Metronome"
             ],
-            "index": 7
+            "index": 13
         }
     },
-    "Chewtle": {
-        "Fisherman Darian": {
-            "level": 12,
+    "Wooper-Paldea": {
+        "Potato-Pewter City": {
+            "level": 15,
             "ivs": null,
-            "item": "Oran Berry",
-            "ability": "Shell Armor",
+            "item": "Lum Berry",
+            "ability": "Poison Touch",
             "nature": "Hardy",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Bite",
-                "Dive"
+                "Poison Tail",
+                "Mud Shot",
+                "Chilling Water"
             ],
-            "index": 8
+            "index": 14
         }
     },
-    "Luvdisc": {
-        "Fisherman Darian": {
-            "level": 12,
+    "Cranidos": {
+        "Youngster Josh": {
+            "level": 15,
             "ivs": null,
-            "item": "Oran Berry",
-            "ability": "Hydration",
-            "nature": "Hardy",
-            "teraType": null,
-            "status": "Healthy",
-            "moves": [
-                "Water Pulse",
-                "Agility"
-            ],
-            "index": 9
-        }
-    },
-    "Goldeen": {
-        "Fisherman Darian": {
-            "level": 12,
-            "ivs": null,
-            "item": "Oran Berry",
-            "ability": "Swift Swim",
+            "item": "Muscle Band",
+            "ability": "Sheer Force",
             "nature": "Adamant",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Horn Attack",
-                "Dive"
+                "Headbutt",
+                "Rock Tomb",
+                "Thunder Punch"
             ],
-            "index": 10
+            "index": 15
+        }
+    },
+    "Lunatone": {
+        "Youngster Josh": {
+            "level": 15,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Confusion",
+                "Ancient Power",
+                "Hypnosis"
+            ],
+            "index": 16
+        }
+    },
+    "Archen": {
+        "GYM Leader Brock": {
+            "level": 15,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Defeatist",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Aerial Ace",
+                "Rock Tomb",
+                "Assurance",
+                "Dragon Breath"
+            ],
+            "index": 17
+        }
+    },
+    "Graveler": {
+        "GYM Leader Brock": {
+            "level": 15,
+            "ivs": null,
+            "item": "Soft Sand",
+            "ability": "Sturdy",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Tomb",
+                "Dig",
+                "Brick Break",
+                "Headbutt"
+            ],
+            "index": 18
+        }
+    },
+    "Amaura": {
+        "GYM Leader Brock": {
+            "level": 15,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Refrigerate",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Round",
+                "Rock Throw",
+                "Thunder Wave",
+                "Bulldoze"
+            ],
+            "index": 19
+        }
+    },
+    "Naclstack": {
+        "GYM Leader Brock": {
+            "level": 15,
+            "ivs": null,
+            "item": "Hard Stone",
+            "ability": "Purifying Salt",
+            "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Salt Cure",
+                "Headbutt",
+                "Recover",
+                "Smack Down"
+            ],
+            "index": 20
+        }
+    },
+    "Magcargo": {
+        "GYM Leader Brock": {
+            "level": 15,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Magma Armor",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ancient Power",
+                "Incinerate",
+                "Yawn",
+                "Bulldoze"
+            ],
+            "index": 21
+        }
+    },
+    "Mawile": {
+        "GYM Leader Brock": {
+            "level": 16,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Sheer Force",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Fang",
+                "Thunder Fang",
+                "Ice Fang",
+                "Metal Claw"
+            ],
+            "index": 21
         }
     }
 }
