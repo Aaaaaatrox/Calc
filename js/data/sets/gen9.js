@@ -424,7 +424,7 @@ var SETDEX_SV = {
         }
     },
     
-    "Lowkix": {
+    "Lokix": {
         "Bug Catcher Colton ": {
             "level": 25,
             "ivs": null,
