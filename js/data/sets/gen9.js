@@ -731,498 +731,498 @@ var SETDEX_SV = {
         }
     },
     
-"Golbat": {
-    "TEAM_ROCKET_GRUNT_1": {
-        "level": 25,
-        "ivs": null,
-        "item": "Scope Lens",
-        "ability": "Sniper",
-        "nature": "Naive",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Mega Drain",
-            "Cross Poison",
-            "Air Cutter",
-            "Supersonic"
-        ],
-        "index": 40
-    }
-},
-"Torracat": {
-    "TEAM_ROCKET_GRUNT_1": {
-        "level": 25,
-        "ivs": null,
-        "item": "Charcoal",
-        "ability": "Intimidate",
-        "nature": "Jolly",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Flame Wheel",
-            "Fake Out",
-            "Will-O-Wisp",
-            "Bite"
-        ],
-        "index": 41
-    }
-},
-"Toxicroak": {
-    "TEAM_ROCKET_GRUNT_1": {
-        "level": 25,
-        "ivs": null,
-        "item": "Wise Glasses",
-        "ability": "Poison Touch",
-        "nature": "Modest",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Venoshock",
-            "Vaccum Wave",
-            "Mud Shot",
-            "Toxic"
-        ],
-        "index": 42
-    }
-},
+    "Golbat": {
+        "TEAM_ROCKET_GRUNT_1": {
+            "level": 25,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Sniper",
+            "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mega Drain",
+                "Cross Poison",
+                "Air Cutter",
+                "Supersonic"
+            ],
+            "index": 40
+        }
+    },
+    "Torracat": {
+        "TEAM_ROCKET_GRUNT_1": {
+            "level": 25,
+            "ivs": null,
+            "item": "Charcoal",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flame Wheel",
+                "Fake Out",
+                "Will-O-Wisp",
+                "Bite"
+            ],
+            "index": 41
+        }
+    },
+    "Toxicroak": {
+        "TEAM_ROCKET_GRUNT_1": {
+            "level": 25,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Poison Touch",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Venoshock",
+                "Vacuum Wave",
+                "Mud Shot",
+                "Toxic"
+            ],
+            "index": 42
+        }
+    },
 
-"Gligar": {
-    "TEAM_ROCKET_GRUNT_2": {
-        "level": 25,
-        "ivs": null,
-        "item": "Focus Sash",
-        "ability": "Hyper Cutter",
-        "nature": "Careful",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Stomping Tantrum",
-            "Wing Attack",
-            "Knock Off",
-            "Stealth Rock"
-        ],
-        "index": 43
-    }
-},
-"Corsola": {
-    "TEAM_ROCKET_GRUNT_2": {
-        "level": 25,
-        "ivs": null,
-        "item": "Sitrus Berry",
-        "ability": "Solid Rock",
-        "nature": "Modest",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Water Pulse",
-            "Ice Beam",
-            "Ancient Power",
-            "Mirror Coat"
-        ],
-        "index": 44
-    }
-},
-"Hitmontop": {
-    "TEAM_ROCKET_GRUNT_2": {
-        "level": 25,
-        "ivs": null,
-        "item": "Black Belt",
-        "ability": "Intimidate",
-        "nature": "Adamant",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Mach Punch",
-            "Rock Slide",
-            "Fake Out",
-            "Bullet Punch"
-        ],
-        "index": 45
-    }
-},
+    "Gligar": {
+        "TEAM_ROCKET_GRUNT_2": {
+            "level": 25,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Hyper Cutter",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stomping Tantrum",
+                "Wing Attack",
+                "Knock Off",
+                "Stealth Rock"
+            ],
+            "index": 43
+        }
+    },
+    "Corsola": {
+        "TEAM_ROCKET_GRUNT_2": {
+            "level": 25,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Solid Rock",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Pulse",
+                "Ice Beam",
+                "Ancient Power",
+                "Mirror Coat"
+            ],
+            "index": 44
+        }
+    },
+    "Hitmontop": {
+        "TEAM_ROCKET_GRUNT_2": {
+            "level": 25,
+            "ivs": null,
+            "item": "Black Belt",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mach Punch",
+                "Rock Slide",
+                "Fake Out",
+                "Bullet Punch"
+            ],
+            "index": 45
+        }
+    },
 
-"Arbok": {
-    "SUPER_NERD_MIGUEL": {
-        "level": 26,
-        "ivs": null,
-        "item": "Sitrus Berry",
-        "ability": "Intimidate",
-        "nature": "Quirky",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Poison Jab",
-            "Thunder Fang",
-            "Sucker Punch",
-            "Scary Face"
-        ],
-        "index": 46
-    }
-},
-"Seviper": {
-    "SUPER_NERD_MIGUEL": {
-        "level": 26,
-        "ivs": null,
-        "item": "Shuca Berry",
-        "ability": "Lethal Venom",
-        "nature": "Serious",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Mega Drain",
-            "Poison Fang",
-            "Bulldoze",
-            "Hypnosis"
-        ],
-        "index": 47
-    }
-},
+    "Arbok": {
+        "SUPER_NERD_MIGUEL": {
+            "level": 26,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Quirky",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poison Jab",
+                "Thunder Fang",
+                "Sucker Punch",
+                "Scary Face"
+            ],
+            "index": 46
+        }
+    },
+    "Seviper": {
+        "SUPER_NERD_MIGUEL": {
+            "level": 26,
+            "ivs": null,
+            "item": "Shuca Berry",
+            "ability": "Lethal Venom",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mega Drain",
+                "Poison Fang",
+                "Bulldoze",
+                "Hypnosis"
+            ],
+            "index": 47
+        }
+    },
 
-"Togedemaru": {
-    "GREEN_1": {
-        "level": 25,
-        "ivs": null,
-        "item": "Focus Sash",
-        "ability": "Iron Barbs",
-        "nature": "Jolly",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Fake Out",
-            "Zing Zap",
-            "Spiky Shield",
-            "Iron Head"
-        ],
-        "index": 48
-    }
-},
-"Dragonair": {
-    "GREEN_1": {
-        "level": 25,
-        "ivs": null,
-        "item": "Wise Glasses",
-        "ability": "Marvel Scale",
-        "nature": "Modest",
-        "teraType": null,
-        "status": "Burned",
-        "moves": [
-            "Scald",
-            "Shock Wave",
-            "Icy Wind",
-            "Thunder Wave"
-        ],
-        "index": 49
-    }
-},
-"Charmeleon": {
-    "GREEN_1": {
-        "level": 26,
-        "ivs": null,
-        "item": "Charcoal",
-        "ability": "Blaze",
-        "nature": "Modest",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Fire Pledge",
-            "Dragon Pulse",
-            "Ancient Power",
-            "Fire Spin"
-        ],
-        "index": 50
-    }
-},
-"Floragato": {
-    "GREEN_1": {
-        "level": 26,
-        "ivs": null,
-        "item": null,
-        "ability": "Overgrow",
-        "nature": "Jolly",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Seed Bomb",
-            "Play Rough",
-            "Thunder Punch",
-            "Acrobatics"
-        ],
-        "index": 51
-    }
-},
-"Frogadier": {
-    "GREEN_1": {
-        "level": 26,
-        "ivs": null,
-        "item": "Mystic Water",
-        "ability": "Torrent",
-        "nature": "Modest",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Water Pledge",
-            "Ice Beam",
-            "Mud Shot",
-            "Smack Down"
-        ],
-        "index": 52
-    }
-},
-"Gallade": {
-    "GREEN_1": {
-        "level": 27,
-        "ivs": null,
-        "item": "Muscle Band",
-        "ability": "Justified",
-        "nature": "Jolly",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Brick Break",
-            "Psycho Cut",
-            "Aqua Cutter",
-            "Aerial Ace"
-        ],
-        "index": 53
-    }
-},
+    "Togedemaru": {
+        "GREEN_1": {
+            "level": 25,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Iron Barbs",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fake Out",
+                "Zing Zap",
+                "Spiky Shield",
+                "Iron Head"
+            ],
+            "index": 48
+        }
+    },
+    "Dragonair": {
+        "GREEN_1": {
+            "level": 25,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Marvel Scale",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Burned",
+            "moves": [
+                "Scald",
+                "Shock Wave",
+                "Icy Wind",
+                "Thunder Wave"
+            ],
+            "index": 49
+        }
+    },
+    "Charmeleon": {
+        "GREEN_1": {
+            "level": 26,
+            "ivs": null,
+            "item": "Charcoal",
+            "ability": "Blaze",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Pledge",
+                "Dragon Pulse",
+                "Ancient Power",
+                "Fire Spin"
+            ],
+            "index": 50
+        }
+    },
+    "Floragato": {
+        "GREEN_1": {
+            "level": 26,
+            "ivs": null,
+            "item": null,
+            "ability": "Overgrow",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Play Rough",
+                "Thunder Punch",
+                "Acrobatics"
+            ],
+            "index": 51
+        }
+    },
+    "Frogadier": {
+        "GREEN_1": {
+            "level": 26,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Pledge",
+                "Ice Beam",
+                "Mud Shot",
+                "Smack Down"
+            ],
+            "index": 52
+        }
+    },
+    "Gallade": {
+        "GREEN_1": {
+            "level": 27,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Justified",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brick Break",
+                "Psycho Cut",
+                "Aqua Cutter",
+                "Aerial Ace"
+            ],
+            "index": 53
+        }
+    },
 
-"Octillery": {
-    "SWIMMER_MALE_LUIS": {
-        "level": 26,
-        "ivs": null,
-        "item": "Expert Belt",
-        "ability": "Suction Cups",
-        "nature": "Hardy",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Waterfall",
-            "Ice Beam",
-            "Mud Shot",
-            "Rock Blast"
-        ],
-        "index": 54
-    }
-},
-"Whiscash": {
-    "SWIMMER_MALE_LUIS": {
-        "level": 26,
-        "ivs": null,
-        "item": "Lum Berry",
-        "ability": "Oblivious",
-        "nature": "Hardy",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Mud Shot",
-            "Scald",
-            "Zen Headbutt",
-            "Rest"
-        ],
-        "index": 55
-    }
-},
-"Lumineon": {
-    "SWIMMER_MALE_LUIS": {
-        "level": 26,
-        "ivs": null,
-        "item": "Lum Berry",
-        "ability": "Water Veil",
-        "nature": "Timid",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Surf",
-            "Air Slash",
-            "Icy Wind",
-            "Attract"
-        ],
-        "index": 56
-    }
-},
+    "Octillery": {
+        "SWIMMER_MALE_LUIS": {
+            "level": 26,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Suction Cups",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Waterfall",
+                "Ice Beam",
+                "Mud Shot",
+                "Rock Blast"
+            ],
+            "index": 54
+        }
+    },
+    "Whiscash": {
+        "SWIMMER_MALE_LUIS": {
+            "level": 26,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Oblivious",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mud Shot",
+                "Scald",
+                "Zen Headbutt",
+                "Rest"
+            ],
+            "index": 55
+        }
+    },
+    "Lumineon": {
+        "SWIMMER_MALE_LUIS": {
+            "level": 26,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Water Veil",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Air Slash",
+                "Icy Wind",
+                "Attract"
+            ],
+            "index": 56
+        }
+    },
 
-"Huntail": {
-    "PICNICKER_DIANA": {
-        "level": 26,
-        "ivs": null,
-        "item": "Lum Berry",
-        "ability": "Swift Swim",
-        "nature": "Adamant",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Crunch",
-            "Dive",
-            "Ice Fang",
-            "Flip Turn"
-        ],
-        "index": 57
-    }
-},
-"Qwilfish": {
-    "PICNICKER_DIANA": {
-        "level": 26,
-        "ivs": null,
-        "item": "Black Sludge",
-        "ability": "Intimidate",
-        "nature": "Hasty",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Venoshock",
-            "Toxic",
-            "Protect",
-            "Dive"
-        ],
-        "index": 58
-    }
-},
-"Cramorant": {
-    "PICNICKER_DIANA": {
-        "level": 25,
-        "ivs": null,
-        "item": "Sitrus Berry",
-        "ability": "Gulp Missile",
-        "nature": "Hasty",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Surf",
-            "Drill Peck",
-            "Whirlpool",
-            "Belch"
-        ],
-        "index": 59
-    }
-},
-"Wartortle": {
-    "PICNICKER_DIANA": {
-        "level": 26,
-        "ivs": {
-                "sa": 30,
-            },
-        "item": "Covert Cloak",
-        "ability": "Torrent",
-        "nature": "Modest",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Shell Smash",
-            "Water Pulse",
-            "Icy Wind",
-            "Hidden Power Electric"
-        ],
-        "index": 60
-    }
-},
+    "Huntail": {
+        "PICNICKER_DIANA": {
+            "level": 26,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Swift Swim",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Crunch",
+                "Dive",
+                "Ice Fang",
+                "Flip Turn"
+            ],
+            "index": 57
+        }
+    },
+    "Qwilfish": {
+        "PICNICKER_DIANA": {
+            "level": 26,
+            "ivs": null,
+            "item": "Black Sludge",
+            "ability": "Intimidate",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Venoshock",
+                "Toxic",
+                "Protect",
+                "Dive"
+            ],
+            "index": 58
+        }
+    },
+    "Cramorant": {
+        "PICNICKER_DIANA": {
+            "level": 25,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Gulp Missile",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Drill Peck",
+                "Whirlpool",
+                "Belch"
+            ],
+            "index": 59
+        }
+    },
+    "Wartortle": {
+        "PICNICKER_DIANA": {
+            "level": 26,
+            "ivs": {
+                    "sa": 30,
+                },
+            "item": "Covert Cloak",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shell Smash",
+                "Water Pulse",
+                "Icy Wind",
+                "Hidden Power Electric"
+            ],
+            "index": 60
+        }
+    },
 
-"Pelipper": {
-    "MISTY": {
-        "level": 26,
-        "ivs": null,
-        "item": "Focus Sash",
-        "ability": "Rain Dish",
-        "nature": "Hardy",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Tailwind",
-            "U-turn",
-            "Air Cutter",
-            "Scald"
-        ],
-        "index": 61
-    }
-},
-"Wugtrio": {
-    "MISTY": {
-        "level": 26,
-        "ivs": null,
-        "item": "Lum Berry",
-        "ability": "Gooey",
-        "nature": "Jolly",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Stomping Tantrum",
-            "Triple Dive",
-            "Whirlpool",
-            "Throat Chop"
-        ],
-        "index": 62
-    }
-},
-"Gorebyss": {
-    "MISTY": {
-        "level": 26,
-        "ivs": null,
-        "item": "Throat Spray",
-        "ability": "Swift Swim",
-        "nature": "Timid",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Surf",
-            "Alluring Voice",
-            "Ice Beam",
-            "Sing"
-        ],
-        "index": 63
-    }
-},
-"Clodsire": {
-    "MISTY": {
-        "level": 26,
-        "ivs": null,
-        "item": "Black Sludge",
-        "ability": "Water Absorb",
-        "nature": "Careful",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Poison Jab",
-            "Bulldoze",
-            "Recover",
-            "Toxic"
-        ],
-        "index": 64
-    }
-},
-"Tauros-Paldea-Aqua": {
-    "MISTY": {
-        "level": 26,
-        "ivs": null,
-        "item": "Black Belt",
-        "ability": "Intimidate",
-        "nature": "Hardy",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Double Kick",
-            "Aqua Jet",
-            "Bulldoze",
-            "Rock Tomb"
-        ],
-        "index": 65
-    }
-},
-"Floatzel": {
-    "MISTY": {
-        "level": 28,
-        "ivs": null,
-        "item": "Mystic Water",
-        "ability": "Water Veil",
-        "nature": "Jolly",
-        "teraType": null,
-        "status": "Healthy",
-        "moves": [
-            "Liquidation",
-            "Ice Punch",
-            "Aqua Jet",
-            "Bulk Up"
-        ],
-        "index": 66
-    }
-},
+    "Pelipper": {
+        "MISTY": {
+            "level": 26,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Rain Dish",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Tailwind",
+                "U-turn",
+                "Air Cutter",
+                "Scald"
+            ],
+            "index": 61
+        }
+    },
+    "Wugtrio": {
+        "MISTY": {
+            "level": 26,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Gooey",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stomping Tantrum",
+                "Triple Dive",
+                "Whirlpool",
+                "Throat Chop"
+            ],
+            "index": 62
+        }
+    },
+    "Gorebyss": {
+        "MISTY": {
+            "level": 26,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Swift Swim",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Alluring Voice",
+                "Ice Beam",
+                "Sing"
+            ],
+            "index": 63
+        }
+    },
+    "Clodsire": {
+        "MISTY": {
+            "level": 26,
+            "ivs": null,
+            "item": "Black Sludge",
+            "ability": "Water Absorb",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poison Jab",
+                "Bulldoze",
+                "Recover",
+                "Toxic"
+            ],
+            "index": 64
+        }
+    },
+    "Tauros-Paldea-Aqua": {
+        "MISTY": {
+            "level": 26,
+            "ivs": null,
+            "item": "Black Belt",
+            "ability": "Intimidate",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Double Kick",
+                "Aqua Jet",
+                "Bulldoze",
+                "Rock Tomb"
+            ],
+            "index": 65
+        }
+    },
+    "Floatzel": {
+        "MISTY": {
+            "level": 28,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Water Veil",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Ice Punch",
+                "Aqua Jet",
+                "Bulk Up"
+            ],
+            "index": 66
+        }
+    },
 }
