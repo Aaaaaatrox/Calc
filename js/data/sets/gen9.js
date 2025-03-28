@@ -379,7 +379,7 @@ var SETDEX_SV = {
             "moves": [
                 "Fire Fang",
                 "Thunder Fang",
-                "Swords Dance",
+                "Bite",
                 "Metal Claw"
             ],
             "index": 21
@@ -1223,6 +1223,343 @@ var SETDEX_SV = {
                 "Bulk Up"
             ],
             "index": 66
+        }
+    },
+
+    "Pinsir": {
+        "Bug Catcher Cale": {
+            "level": 33,
+            "ivs": null,
+            "item": "Bug Gem",
+            "ability": "Hyper Cutter",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Knock Off",
+                "High Horsepower",
+                "X-Scissor",
+                "Swords Dance"
+            ],
+            "index": 67
+        }
+    },
+    "Armaldo": {
+        "Bug Catcher Cale": {
+            "level": 33,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Battle Armor",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Slide",
+                "Leech Life",
+                "Earthquake",
+                "Aqua Jet"
+            ],
+            "index": 68
+        }
+    },
+    "Leavanny": {
+        "Bug Catcher Cale": {
+            "level": 33,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Night Slash",
+                "Razor Leaf",
+                "X-Scissor",
+                "Aerial Ace"
+            ],
+            "index": 69
+        }
+    },
+    "Azumarill": {
+        "Lass Ali": {
+            "level": 33,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Huge Power",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bounce",
+                "Play Rough",
+                "Waterfall",
+                "Aqua Jet"
+            ],
+            "index": 70
+        }
+    },
+    "Lilligant": {
+        "Lass Ali": {
+            "level": 33,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Own Tempo",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Toxic",
+                "Alluring Voice",
+                "Synthesis"
+            ],
+            "index": 71
+        }
+    },
+    "Talonflame": {
+        "Lass Ali": {
+            "level": 33,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Gale Wings",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Heat Wave",
+                "Solar Beam",
+                "Acrobatics",
+                "Will-O-Wisp"
+            ],
+            "index": 72
+        }
+    },
+    "Sirfetch\u2019d": {
+        "Younger Timmy": {
+            "level": 33,
+            "ivs": null,
+            "item": "Choice Scarf",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Leaf Blade"
+            ],
+            "index": 73
+        }
+    },
+    "Diggersby": {
+        "Younger Timmy": {
+            "level": 33,
+            "ivs": null,
+            "item": "Choice Scarf",
+            "ability": "Huge Power",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Mega Punch"
+            ],
+            "index": 74
+        }
+    },
+    "Carnivine": {
+        "Younger Timmy": {
+            "level": 33,
+            "ivs": null,
+            "item": "Choice Scarf",
+            "ability": "Levitate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Power Whip",
+                "Leech Life"
+            ],
+            "index": 75
+        }
+    },
+    "Ampharos": {
+        "Lass Reli": {
+            "level": 33,
+            "ivs": null,
+            "item": "Dragon Gem",
+            "ability": "Static",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Discharge",
+                "Dragon Breath",
+                "Rest",
+                "Sleep Talk"
+            ],
+            "index": 76
+        }
+    },
+    "Froslass": {
+        "Lass Reli": {
+            "level": 33,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Cursed Body",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Draining Kiss",
+                "Shadow Ball",
+                "Ice Beam",
+                "Will-O-Wisp"
+            ],
+            "index": 77
+        }
+    },
+    "Gastrodon": {
+        "Lass Reli": {
+            "level": 33,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Storm Drain",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earth Power",
+                "Sludge Bomb",
+                "Muddy Water",
+                "Recover"
+            ],
+            "index": 78
+        }
+    },
+    "Mabosstiff": {
+        "Camper Ethan": {
+            "level": 33,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic Fangs",
+                "Crunch",
+                "Dig",
+                "Superpower"
+            ],
+            "index": 79
+        }
+    },
+    "Drednaw": {
+        "Camper Ethan": {
+            "level": 33,
+            "ivs": null,
+            "item": "Rindo Berry",
+            "ability": "Shell Armor",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Liquidation",
+                "Crunch",
+                "Rock Polish"
+            ],
+            "index": 80
+        }
+    },
+    "Braviary": {
+        "Camper Ethan": {
+            "level": 33,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Superpower",
+                "Acrobatics",
+                "Slash",
+                "Bulk Up"
+            ],
+            "index": 81
+        }
+    },
+    "Liepard": {
+        "Team Rocket Grunt 3": {
+            "level": 33,
+            "ivs": null,
+            "item": "Lagging Tail",
+            "ability": "Prankster",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Trick",
+                "Psycho Cut",
+                "Night Slash",
+                "Fake Out"
+            ],
+            "index": 82
+        }
+    },
+    "Persian-Alola": {
+        "Team Rocket Grunt 3": {
+            "level": 33,
+            "ivs": null,
+            "item": "Chople Berry",
+            "ability": "Fur Coat",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dark Pulse",
+                "Power Gem",
+                "Shadow Ball",
+                "Thunderbolt"
+            ],
+            "index": 83
+        }
+    },
+    "Perrserker": {
+        "Team Rocket Grunt 3": {
+            "level": 33,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Steely Spirit",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Bullet Punch",
+                "Fake Out",
+                "Knock Off"
+            ],
+            "index": 84
+        }
+    },
+    "Persian": {
+        "Team Rocket Grunt 3": {
+            "level": 33,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Technician",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fury Swipes",
+                "Aerial Ace",
+                "Covet",
+                "Fake Out"
+            ],
+            "index": 85
         }
     },
 }
