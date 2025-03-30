@@ -127,19 +127,19 @@ var SETDEX_SV = {
             "index": 7
         }
     },
-    "Scyther": {
+    "Spidops": {
         "Bug Catcher Sammy": {
             "level": 14,
             "ivs": null,
             "item": "Oran Berry",
-            "ability": "Technician",
+            "ability": "Insomnia",
             "nature": "Hasty",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Fury Cutter",
-                "Quick Attack",
-                "Wing Attack"
+                "Silk Trap",
+                "Bug Bite",
+                "Knock Off"
             ],
             "index": 8
         }
@@ -206,7 +206,7 @@ var SETDEX_SV = {
             "moves": [
                 "Thief",
                 "Will-O-Wisp",
-                "Hex"
+                "Shadow Sneak"
             ],
             "index": 12
         }
@@ -270,8 +270,8 @@ var SETDEX_SV = {
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Confusion",
-                "Ancient Power",
+                "Stored Power",
+                "Rock Tomb",
                 "Hypnosis"
             ],
             "index": 16
@@ -305,8 +305,8 @@ var SETDEX_SV = {
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Rock Tomb",
-                "Dig",
+                "Smack Down",
+                "Bulldoze",
                 "Brick Break",
                 "Headbutt"
             ],
@@ -317,7 +317,7 @@ var SETDEX_SV = {
         "GYM Leader Brock": {
             "level": 15,
             "ivs": null,
-            "item": "Focus Sash",
+            "item": "Berry Juice",
             "ability": "Refrigerate",
             "nature": "Hardy",
             "teraType": null,
@@ -349,20 +349,20 @@ var SETDEX_SV = {
             "index": 20
         }
     },
-    "Magcargo": {
+    "Tirtouga": {
         "GYM Leader Brock": {
             "level": 15,
             "ivs": null,
-            "item": "Lum Berry",
-            "ability": "Magma Armor",
-            "nature": "Quiet",
+            "item": "Rindo Berry",
+            "ability": "Solid Rock",
+            "nature": "Brave",
             "teraType": null,
             "status": "Healthy",
             "moves": [
-                "Ancient Power",
-                "Incinerate",
-                "Yawn",
-                "Bulldoze"
+                "Smack Down",
+                "Aqua Jet",
+                "Bite",
+                "Dive"
             ],
             "index": 21
         }
@@ -372,7 +372,7 @@ var SETDEX_SV = {
             "level": 16,
             "ivs": null,
             "item": "Muscle Band",
-            "ability": "Sheer Force",
+            "ability": "Intimidate",
             "nature": "Serious",
             "teraType": null,
             "status": "Healthy",
@@ -448,7 +448,7 @@ var SETDEX_SV = {
             "level": 25,
             "ivs": null,
             "item": "Lum Berry",
-            "ability": "Swarm",
+            "ability": "Iron Fist",
             "nature": "Adamant",
             "teraType": null,
             "status": "Healthy",
@@ -467,7 +467,7 @@ var SETDEX_SV = {
             "level": 25,
             "ivs": null,
             "item": "Muscle Band",
-            "ability": "Iron Fist",
+            "ability": "Swarm",
             "nature": "Jolly",
             "teraType": null,
             "status": "Healthy",
@@ -1512,7 +1512,7 @@ var SETDEX_SV = {
         "Team Rocket Grunt 3": {
             "level": 33,
             "ivs": null,
-            "item": "Chople Berry",
+            "item": "Lum Berry",
             "ability": "Fur Coat",
             "nature": "Modest",
             "teraType": null,
@@ -1560,6 +1560,780 @@ var SETDEX_SV = {
                 "Fake Out"
             ],
             "index": 85
+        }
+    },
+
+    "Kabutops": {
+        "Hiker Wayne": {
+            "level": 33,
+            "ivs": null,
+            "item": "Rock Gem",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Razor Shell",
+                "Rock Slide",
+                "Aqua Jet",
+                "Leech Life"
+            ],
+            "index": 86
+        }
+    },
+
+    "Toxtricity": {
+        "Hiker Wayne": {
+            "level": 33,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Punk Rock",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Discharge",
+                "Belch",
+                "Trailblaze",
+                "Psychic Noise"
+            ],
+            "index": 87
+        }
+    },
+    "Sunflora": {
+        "Hiker Wayne": {
+            "level": 33,
+            "ivs": null,
+            "item": "Quick Attack",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Giga Drain",
+                "Earth Power",
+                "Dazzling Gleam",
+                "Growth"
+            ],
+            "index": 88
+        }
+    },
+    "Passimian": {
+        "Hiker Wayne": {
+            "level": 33,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Seed Bomb",
+                "Rock Slide",
+                "Sucker Punch"
+            ],
+            "index": 89
+        }
+    },
+
+    "Palossand": {
+        "PICNICKER Kelsey": {
+            "level": 33,
+            "ivs": null,
+            "item": "Grass Gem",
+            "ability": "Water Compaction",
+            "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Ball",
+                "Shore Up",
+                "Scorching Sands",
+                "Giga Drain"
+            ],
+            "index": 90
+        }
+    },
+    "Breloom": {
+        "PICNICKER Kelsey": {
+            "level": 33,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Technician",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bullet Seed",
+                "Mach Punch",
+                "Force Palm",
+                "Rock Tomb"
+            ],
+            "index": 91
+        }
+    },
+    "Furfrou": {
+        "PICNICKER Kelsey": {
+            "level": 33,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Fur Coat",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Headbutt",
+                "Sucker Punch",
+                "Zen Headbutt",
+                "Dig"
+            ],
+            "index": 92
+        }
+    },
+
+    "Aromatisse": {
+        "Lass Haley": {
+            "level": 33,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Healer",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Calm Mind",
+                "Dazzling Gleam",
+                "Thunderbolt"
+            ],
+            "index": 93
+        }
+    },
+    "Vespiquen": {
+        "Lass Haley": {
+            "level": 33,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Pressure",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Attack Order",
+                "Dual Wingbeat",
+                "Power Gem",
+                "Revenge"
+            ],
+            "index": 94
+        }
+    },
+    "Espathra": {
+        "Lass Haley": {
+            "level": 33,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Speed Boost",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Lumina Crash",
+                "Dazzling Gleam",
+                "Feather Dance",
+                "Drill Peck"
+            ],
+            "index": 95
+        }
+    },
+
+    "Bisharp": {
+        "TEAM_ROCKET_GRUNT_4": {
+            "level": 33,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Stealth Rock",
+                "Sucker Punch",
+                "Reversal"
+            ],
+            "index": 96
+        }
+    },
+    "Nidoking": {
+        "TEAM_ROCKET_GRUNT_4": {
+            "level": 33,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Acid Coat",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Run",
+                "Poison Jab",
+                "Brick Break",
+                "Thunder Punch"
+            ],
+            "index": 97
+        }
+    },
+    "Bombirdier": {
+        "TEAM_ROCKET_GRUNT_4": {
+            "level": 33,
+            "ivs": null,
+            "item": "Black Glasses",
+            "ability": "Rocky Payload",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dual Wingbeat",
+                "Knock Off",
+                "Stone Edge",
+                "Drill Run"
+            ],
+            "index": 98
+        }
+    },
+    "Crabominable": {
+        "TEAM_ROCKET_GRUNT_4": {
+            "level": 33,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Hyper Cutter",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Superpower",
+                "Payback",
+                "Ice Shard"
+            ],
+            "index": 99
+        }
+    },
+
+    "Espeon": {
+        "Camper Jeff &PICNICKER Isabelle": {
+            "level": 33,
+            "ivs": null,
+            "item": "Light Clay",
+            "ability": "Magic Bounce",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic Noise",
+                "Draining Kiss",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 100
+        }
+    },
+    "Umbreon": {
+        "Camper Jeff &PICNICKER Isabelle": {
+            "level": 33,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Inner Focus",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dark Pulse",
+                "Psychic",
+                "Yawn",
+                "Dream Eater"
+            ],
+            "index": 101
+        }
+    },
+    "Ceruledge": {
+        "Camper Jeff &PICNICKER Isabelle": {
+            "level": 33,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Weak Armor",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Claw",
+                "Shadow Sneak",
+                "X-Scissor",
+                "Bitter Blade"
+            ],
+            "index": 102
+        }
+    },
+    "Solrock": {
+        "PCamper Jeff &PICNICKER Isabelle": {
+            "level": 33,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Levitate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Solar Blade",
+                "Stone Edge",
+                "Zen Headbutt",
+                "Morning Sun"
+            ],
+            "index": 103
+        }
+    },
+    "Scrafty": {
+        "Camper Jeff &PICNICKER Isabelle": {
+            "level": 33,
+            "ivs": null,
+            "item": "Fighting Gem",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Knock Off",
+                "Foul Play",
+                "Fake Out"
+            ],
+            "index": 104
+        }
+    },
+
+    "Chesnaught": {
+        "Beashop2": {
+            "level": 34,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Bulletproof",
+            "nature": "Naughty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Needle Arm",
+                "Hammer Arm",
+                "Rock Slide",
+                "Spiky Shield"
+            ],
+            "index": 105
+        }
+    },
+    "Salazzle": {
+        "Beashop2": {
+            "level": 34,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Corrosion",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Fake Out",
+                "Flamethrower",
+                "Dragon Pulse"
+            ],
+            "index": 106
+        }
+    },
+    "Barraskewda": {
+        "Beashop2": {
+            "level": 34,
+            "ivs": null,
+            "item": "Cheri Berry",
+            "ability": "Swift Swim",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Crunch",
+                "Liquidation",
+                "Close Combat",
+                "Flip Turn"
+            ],
+            "index": 107
+        }
+    },
+    "Gengar": {
+        "Beashop2": {
+            "level": 34,
+            "ivs": null,
+            "item": "Spell Tag",
+            "ability": "Curse Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Ball",
+                "Sludge Bomb",
+                "Dark Pulse",
+                "Thunderbolt"
+            ],
+            "index": 108
+        }
+    },
+    "Wobbuffet": {
+        "Beashop2": {
+            "level": 34,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Shadow Tag",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Destiny Bond",
+                "Mirror Coat",
+                "Safeguard",
+                "Counter"
+            ],
+            "index": 109
+        }
+    },
+    "Escavalier": {
+        "Beashop2": {
+            "level": 34,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Swarm",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Megahorn",
+                "X-Scissor",
+                "Iron Head",
+                "Scary Face"
+            ],
+            "index": 110
+        }
+    },
+    
+    "Magneton": {
+        "BALDING_Baily": {
+            "level": 33,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Analytic",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Flash Cannon",
+                "Tri Attack",
+                "Electric Terrain"
+            ],
+            "index": 111
+        }
+    },
+    "Morpeko": {
+        "BALDING_Baily": {
+            "level": 33,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Hunger Switch",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Zing Zap",
+                "Fake Out",
+                "Knock Off",
+                "Seed Bomb"
+            ],
+            "index": 112
+        }
+    },
+    "Raichu": {
+        "BALDING_Baily": {
+            "level": 33,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Static",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Punch",
+                "Iron Tail",
+                "Body Slam",
+                "Fake Out"
+            ],
+            "index": 113
+        }
+    },
+    "Kilowattrel": {
+        "BALDING_Baily": {
+            "level": 33,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Volt Absorb",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Hurricane",
+                "Thunder Wave",
+                "Roost"
+            ],
+            "index": 114
+        }
+    },
+
+    "Orbeetle": {
+        "GENTLEMAN Tucker": {
+            "level": 33,
+            "ivs": null,
+            "item": "Bug Gem",
+            "ability": "Swarm",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Buzz",
+                "Psyshock",
+                "Magic Coat",
+                "Hypnosis"
+            ],
+            "index": 115
+        }
+    },
+    "Emolga": {
+        "GENTLEMAN Tucker": {
+            "level": 33,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Static",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Acrobatics",
+                "Thunderbolt",
+                "U-turn",
+                "Energy Ball"
+            ],
+            "index": 116
+        }
+    },
+    "Marowak": {
+        "GENTLEMAN Tucker": {
+            "level": 33,
+            "ivs": null,
+            "item": "Thick Club",
+            "ability": "Battle Armor",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bonemerang",
+                "Fire Punch",
+                "Rock Slide",
+                "Low Kick"
+            ],
+            "index": 117
+        }
+    },
+
+    "Pincurchin": {
+        "SAILOR Dwayne": {
+            "level": 33,
+            "ivs": null,
+            "item": "Terrain Extender",
+            "ability": "Electric Surge",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Zing Zap",
+                "Liquidation",
+                "Poison Jab",
+                "Thunder Wave"
+            ],
+            "index": 118
+        }
+    },
+    "Seaking": {
+        "SAILOR Dwayne": {
+            "level": 33,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Lightning Rod",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Poison Jab",
+                "Drill Run",
+                "Smart Strike"
+            ],
+            "index": 119
+        }
+    },
+    "Dracozolt": {
+        "SAILOR Dwayne": {
+            "level": 33,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Volt Absorb",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "High Horsepower",
+                "Thunder Punch",
+                "Low Kick"
+            ],
+            "index": 120
+        }
+    },
+    "Raichu-Alola": {
+        "SAILOR Dwayne": {
+            "level": 33,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Surge Surfer",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rising Voltage",
+                "Psyshock",
+                "Surf",
+                "Alluring Voice"
+            ],
+            "index": 121
+        }
+    },
+
+    "Rotom-Frost": {
+        "LT. SURGE": {
+            "level": 35,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Beam",
+                "Thunderbolt",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 122
+        }
+    },
+    "Iron Thorns": {
+        "LT. SURGE": {
+            "level": 35,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Quark Drive",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Wild Charge",
+                "Stomping Tantrum",
+                "Rock Slide",
+                "Brick Break"
+            ],
+            "index": 123
+        }
+    },
+    "Lanturn": {
+        "LT. SURGE": {
+            "level": 35,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Volt Absorb",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Beam",
+                "Thunderbolt",
+                "Scald",
+                "Thunder Wave"
+            ],
+            "index": 124
+        }
+    },
+    "Bellibolt": {
+        "LT. SURGE": {
+            "level": 35,
+            "ivs": null,
+            "item": "Iapapa Berry",
+            "ability": "Electromorphosis",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Parabolic Charge",
+                "Muddy Water",
+                "Mud Shot",
+                "Toxic"
+            ],
+            "index": 125
+        }
+    },
+    "Electrode-Hisui": {
+        "LT. SURGE": {
+            "level": 35,
+            "ivs": {
+                "df": 30,
+                "sd": 30,
+                "sp": 30
+            },
+            "item": "Magnet",
+            "ability": "Static",
+            "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Chloroblast",
+                "Volt Switch",
+                "Hidden Power Rock",
+                "Explosion"
+            ],
+            "index": 126
+        }
+    },
+    "Manectric-Mega": {
+        "LT. SURGE": {
+            "level": 36,
+            "ivs": {
+                "hp": 30,
+                "sa": 30,
+            },
+            "item": "Manectite",
+            "ability": "Intimidate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Flamethrower",
+                "Hidden Power Grass",
+                "Snarl"
+            ],
+            "index": 127
         }
     },
 }

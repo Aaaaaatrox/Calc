@@ -1,0 +1,54 @@
+Rotom-Frost @ Leftovers
+Level: 35
+Ability: Levitate
+Nature: Timid
+- Ice Beam
+- Thunderbolt
+- Light Screen
+- Reflect
+
+Iron Thorns @ Lum Berry
+Level: 35
+Ability: Quark Drive
+Nature: Jolly
+- Wild Charge
+- Stomping Tantrum
+- Rock Slide
+- Brick Break
+
+Lanturn @ Air Balloon
+Level: 35
+Ability: Volt Absorb
+Nature: Modest
+- Ice Beam
+- Thunderbolt
+- Scald
+- Thunder Wave
+
+Bellibolt @ Iapapa Berry
+Level: 35
+Ability: Electromorphosis
+Nature: Modest
+- Parabolic Charge
+- Muddy Water
+- Mud Shot
+- Toxic
+
+Electrode-Hisui @ Magnet
+Level: 35
+Ability: Static
+Nature: Naive
+- Chloroblast
+- Volt Switch
+- Hidden Power Rock
+- Explosion
+
+Manectric-Mega @ Manectite
+Level: 36
+Ability: Intimidate
+Nature: Modest
+- Thunderbolt
+- Flamethrower
+- Hidden Power Grass
+- Snarl
+
