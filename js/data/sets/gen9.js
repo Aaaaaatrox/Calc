@@ -1604,7 +1604,7 @@ var SETDEX_SV = {
         "Hiker Wayne": {
             "level": 33,
             "ivs": null,
-            "item": "Quick Attack",
+            "item": "Quick Claw",
             "ability": "Chlorophyll",
             "nature": "Modest",
             "teraType": null,
@@ -2336,4 +2336,2309 @@ var SETDEX_SV = {
             "index": 127
         }
     },
+    "Ninetales": {
+        "PICNICKER Alicia": {
+            "level": 40,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Drought",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psyshock",
+                "Flamethrower",
+                "Scorching Sands",
+                "Hypnosis"
+            ],
+            "index": 128
+        }
+    },
+    "Victreebel": {
+        "PICNICKER Alicia": {
+            "level": 39,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Chlorophyll",
+            "nature": "Lonely",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poison Jab",
+                "Leaf Blade",
+                "Sleep Powder",
+                "Leech Life"
+            ],
+            "index": 129
+        }
+    },
+    "Scovillain": {
+        "PICNICKER Alicia": {
+            "level": 39,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Chlorophyll",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Energy Ball",
+                "Zen Headbutt",
+                "Spiky Shield"
+            ],
+            "index": 130
+        }
+    },
+    "Jumpluff": {
+        "PICNICKER Alicia": {
+            "level": 39,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Infiltrator",
+            "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Spore",
+                "Leech Seed",
+                "Solar Beam",
+                "Air Slash"
+            ],
+            "index": 131
+        }
+    },
+    "Sandaconda": {
+        "Hiker Jeremy": {
+            "level": 39,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Sand Spit",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Stone Edge",
+                "Fire Fang",
+                "Glare"
+            ],
+            "index": 132
+        }
+    },
+    "Sandslash": {
+        "Hiker Jeremy": {
+            "level": 40,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Run",
+                "X-Scissor",
+                "Stone Edge",
+                "Poison Jab"
+            ],
+            "index": 133
+        }
+    },
+    "Houndstone": {
+        "Hiker Jeremy": {
+            "level": 39,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Sand Rush",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Last Respects",
+                "Body Press",
+                "Crunch",
+                "Psychic Fangs"
+            ],
+            "index": 134
+        }
+    },
+    "Lycanroc": {
+        "Hiker Jeremy": {
+            "level": 39,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Slide",
+                "Iron Head",
+                "Drill Run",
+                "Brick Break"
+            ],
+            "index": 135
+        }
+    },
+    "Politoed": {
+        "Camper Chris (Double)": {
+            "level": 38,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Drizzle",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Hypnosis",
+                "Focus Blast"
+            ],
+            "index": 136
+        }
+    },
+    "Tentacruel": {
+        "Camper Chris (Double)": {
+            "level": 38,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Rain Dish",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Toxic",
+                "Scald",
+                "Ice Beam",
+                "Sludge Bomb"
+            ],
+            "index": 137
+        }
+    },
+    "Ludicolo": {
+        "Camper Chris (Double)": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fake Out",
+                "Scald",
+                "Giga Drain",
+                "Ice Beam"
+            ],
+            "index": 138
+        }
+    },
+    "Mantine": {
+        "Camper Chris (Double)": {
+            "level": 38,
+            "ivs": null,
+            "item": "Wacan Berry",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Blizzard",
+                "Hurricane",
+                "Hydro Pump",
+                "Signal Beam"
+            ],
+            "index": 139
+        }
+    },
+    "Aurorus": {
+        "Camper Drew (Double)": {
+            "level": 38,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Snow Warning",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Freeze-Dry",
+                "Ice Beam",
+                "Power Gem",
+                "Aurora Veil"
+            ],
+            "index": 140
+        }
+    },
+    "Sandslash-Alola": {
+        "Camper Drew (Double)": {
+            "level": 38,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Iron Head",
+                "X-Scissor",
+                "Drill Run"
+            ],
+            "index": 141
+        }
+    },
+    "Dewgong": {
+        "Camper Drew (Double)": {
+            "level": 39,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Ice Body",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dive",
+                "Avalanche",
+                "Drill Run",
+                "Protect"
+            ],
+            "index": 142
+        }
+    },
+    "Glaceon": {
+        "Camper Drew (Double)": {
+            "level": 40,
+            "ivs": null,
+            "item": "Occa Berry",
+            "ability": "Snow Cloak",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Freeze-Dry",
+                "Calm Mind",
+                "Alluring Voice",
+                "Shadow Ball"
+            ],
+            "index": 143
+        }
+    },
+    "Rabsca": {
+        "Bug Catcher Conner": {
+            "level": 38,
+            "ivs": null,
+            "item": "Bug Gem",
+            "ability": "Synchronize",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Buzz",
+                "Psychic",
+                "Confuse Ray",
+                "Energy Ball"
+            ],
+            "index": 144
+        }
+    },
+    "Accelgor": {
+        "Bug Catcher Conner": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Shuriken",
+                "Bug Buzz",
+                "Giga Drain",
+                "Final Gambit"
+            ],
+            "index": 145
+        }
+    },
+    "Araquanid": {
+        "Bug Catcher Conner": {
+            "level": 38,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Water Bubble",
+            "nature": "Relaxed",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mirror Coat",
+                "Leech Life",
+                "Crunch",
+                "Waterfall"
+            ],
+            "index": 146
+        }
+    },
+    "Scyther": {
+        "Bug Catcher Conner": {
+            "level": 38,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Technician",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dual Wingbeat",
+                "Bug Bite"
+            ],
+            "index": 147
+        }
+    },
+    "Pawmot": {
+        "Hiker Brice": {
+            "level": 38,
+            "ivs": null,
+            "item": "Punching Glove",
+            "ability": "Iron Fist",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fake Out",
+                "Close Combat",
+                "Double Shock",
+                "Knock Off"
+            ],
+            "index": 148
+        }
+    },
+    "Dubwool": {
+        "Hiker Brice": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Fluffy",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Reversal",
+                "Swords Dance",
+                "Zen Headbutt",
+                "Retaliate"
+            ],
+            "index": 149
+        }
+    },
+    "Lycanroc-Midnight": {
+        "Hiker Brice": {
+            "level": 38,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "No Guard",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Mega Kick",
+                "Iron Tail",
+                "Low Kick"
+            ],
+            "index": 150
+        }
+    },
+    "Klinklang": {
+        "Hiker Brice": {
+            "level": 38,
+            "ivs": null,
+            "item": "Electric Gem",
+            "ability": "Clear Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gear Grind",
+                "Wild Charge",
+                "Shift Gear",
+                "Return"
+            ],
+            "index": 151
+        }
+    },
+    "Nidoqueen": {
+        "Picnicker Caitlin": {
+            "level": 40,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earth Power",
+                "Sludge Bomb",
+                "Surf",
+                "Thunderbolt"
+            ],
+            "index": 152
+        }
+    },
+    "Simisage": {
+        "Picnicker Caitlin": {
+            "level": 40,
+            "ivs": null,
+            "item": "Grass Gem",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Acrobatics",
+                "Low Sweep",
+                "Knock Off"
+            ],
+            "index": 153
+        }
+    },
+    "Magcargo": {
+        "Picnicker Caitlin": {
+            "level": 40,
+            "ivs": null,
+            "item": "Passho Berry",
+            "ability": "Flame Body",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Power Gem",
+                "Earth Power",
+                "Will-O-Wisp"
+            ],
+            "index": 154
+        }
+    },
+    "Lilligant-Hisui": {
+        "Picnicker Caitlin": {
+            "level": 40,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Chlorophyll",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Leaf Blade",
+                "Ice Spinner",
+                "Victory Dance"
+            ],
+            "index": 155
+        }
+    },
+    "Kingler": {
+        "Picnicker Caitlin": {
+            "level": 40,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Hyper Cutter",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Crabhammer",
+                "Ice Spinner",
+                "Night Slash",
+                "Hammer Arm"
+            ],
+            "index": 156
+        }
+    },
+    "Bewear": {
+        "Picnicker Heidi": {
+            "level": 40,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Fluffy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Drain Punch",
+                "Earthquake",
+                "Throat Chop"
+            ],
+            "index": 157
+        }
+    },
+    "Beartic": {
+        "Picnicker Heidi": {
+            "level": 40,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Bulk Up",
+                "Stone Edge",
+                "Aqua Jet"
+            ],
+            "index": 158
+        }
+    },
+    "Ursaring": {
+        "Picnicker Heidi": {
+            "level": 40,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Unnerve",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Earthquake",
+                "Swords Dance",
+                "Close Combat"
+            ],
+            "index": 159
+        }
+    },
+    "Pangoro": {
+        "Picnicker Heidi": {
+            "level": 40,
+            "ivs": null,
+            "item": "Roseli Berry",
+            "ability": "Iron Fist",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Crunch",
+                "Drain Punch",
+                "Thunder Punch",
+                "Fire Punch"
+            ],
+            "index": 160
+        }
+    },
+    "Sudowoodo": {
+        "Super Nerd Ashton": {
+            "level": 40,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Sturdy",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Wood Hammer",
+                "Earthquake",
+                "Stone Edge",
+                "Stealth Rock"
+            ],
+            "index": 161
+        }
+    },
+    "Exeggutor-Alola": {
+        "Super Nerd Ashton": {
+            "level": 38,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Harvest",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Wood Hammer",
+                "Dragon Hammer",
+                "Hypnosis",
+                "Dragon Tail"
+            ],
+            "index": 162
+        }
+    },
+    "Silvally-Water": {
+        "Super Nerd Ashton": {
+            "level": 38,
+            "ivs": null,
+            "item": "Water Memory",
+            "ability": "Rks System",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Multi-Attack",
+                "X-Scissor",
+                "Rock Slide",
+                "Tri Attack"
+            ],
+            "index": 163
+        }
+    },
+    "Vikavolt": {
+        "Super Nerd Ashton": {
+            "level": 38,
+            "ivs": null,
+            "item": "Occa Berry",
+            "ability": "Levitate",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Air Slash",
+                "Bug Buzz",
+                "Thunderbolt",
+                "Agility"
+            ],
+            "index": 164
+        }
+    },
+    "Mightyena": {
+        "Super Nerd Winston": {
+            "level": 38,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Crunch",
+                "Fire Fang",
+                "Psychic Fangs",
+                "Thunder Fang"
+            ],
+            "index": 165
+        }
+    },
+    "Venomoth": {
+        "Super Nerd Winston": {
+            "level": 38,
+            "ivs": null,
+            "item": "Blunder Policy",
+            "ability": "Shield Dust",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sleep Powder",
+                "Bug Buzz",
+                "Energy Ball",
+                "Sludge Bomb"
+            ],
+            "index": 166
+        }
+    },
+    "Grapploct": {
+        "Super Nerd Winston": {
+            "level": 38,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Limber",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Retaliate",
+                "Liquidation",
+                "Bulk Up"
+            ],
+            "index": 167
+        }
+    },
+    "Raticate-Alola": {
+        "Super Nerd Winston": {
+            "level": 38,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Gluttony",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Double-Edge",
+                "Sucker Punch",
+                "Zen Headbutt",
+                "Swords Dance"
+            ],
+            "index": 168
+        }
+    },
+    "Toedscruel": {
+        "Picnicker Martha": {
+            "level": 38,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Mycelium Might",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Spore",
+                "Earth Power",
+                "Sludge Bomb"
+            ],
+            "index": 169
+        }
+    },
+    "Arboliva": {
+        "Picnicker Martha": {
+            "level": 38,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Seed Sower",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Earth Power",
+                "Giga Drain",
+                "Mirror Coat"
+            ],
+            "index": 170
+        }
+    },
+    "Shiinotic": {
+        "Picnicker Martha": {
+            "level": 38,
+            "ivs": null,
+            "item": "Kebia Berry",
+            "ability": "Effect Spore",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Giga Drain",
+                "Spore",
+                "Dream Eater"
+            ],
+            "index": 171
+        }
+    },
+    "Trevenant": {
+        "Picnicker Martha": {
+            "level": 40,
+            "ivs": null,
+            "item": "Grassy Seed",
+            "ability": "Harvest",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Claw",
+                "Spiky Shield",
+                "Needle Arm",
+                "Destiny Bond"
+            ],
+            "index": 172
+        }
+    },
+    "Flareon": {
+        "Super Nerd Steve": {
+            "level": 38,
+            "ivs": null,
+            "item": "Normal Gem",
+            "ability": "Flash Fire",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flare Blitz",
+                "Extreme Speed",
+                "Superpower",
+                "Trailblaze"
+            ],
+            "index": 173
+        }
+    },
+    "Rotom-Heat": {
+        "Super Nerd Steve": {
+            "level": 38,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Levitate",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overheat",
+                "Thunderbolt",
+                "Volt Switch",
+                "Will-O-Wisp"
+            ],
+            "index": 174
+        }
+    },
+    "Slowking-Galar": {
+        "Super Nerd Steve": {
+            "level": 38,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Own Tempo",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Sludge Bomb",
+                "Nasty Plot",
+                "Grass Knot"
+            ],
+            "index": 175
+        }
+    },
+    "Duraludon": {
+        "Super Nerd Steve": {
+            "level": 38,
+            "ivs": null,
+            "item": "Metal Coat",
+            "ability": "Stalwart",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flash Cannon",
+                "Aura Sphere",
+                "Dragon Pulse",
+                "Thunderbolt"
+            ],
+            "index": 176
+        }
+    },
+    "Golem-Alola": {
+        "Hiker Allen + Eric": {
+            "level": 38,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Galvanize",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Explosion"
+            ],
+            "index": 177
+        }
+    },
+    "Decidueye": {
+        "Hiker Allen + Eric": {
+            "level": 38,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Long Reach",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poltergeist",
+                "Leaf Blade",
+                "Brave Bird",
+                "Roost"
+            ],
+            "index": 178
+        }
+    },
+    "Golem": {
+        "Hiker Allen + Eric": {
+            "level": 38,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Rock Head",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Double-Edge",
+                "Stone Edge",
+                "High Horsepower",
+                "Superpower"
+            ],
+            "index": 179
+        }
+    },
+    "Decidueye-Hisui": {
+        "Hiker Allen + Eric": {
+            "level": 38,
+            "ivs": null,
+            "item": "Coba Berry",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bulk Up",
+                "Sucker Punch",
+                "Triple Arrows",
+                "Leaf Blade"
+            ],
+            "index": 180
+        }
+    },
+    "Bronzong": {
+        "Hiker Lucas": {
+            "level": 38,
+            "ivs": null,
+            "item": "Iron Ball",
+            "ability": "Levitate",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Trick",
+                "Teleport",
+                "Psychic",
+                "Gyro Ball"
+            ],
+            "index": 181
+        }
+    },
+    "Dugtrio": {
+        "Hiker Lucas": {
+            "level": 39,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Arena Trap",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Foul Play",
+                "Shadow Claw",
+                "Reversal"
+            ],
+            "index": 182
+        }
+    },
+    "Porygon2": {
+        "Hiker Lucas": {
+            "level": 38,
+            "ivs": null,
+            "item": "Chople Berry",
+            "ability": "Download",
+            "nature": "Relaxed",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Tri Attack",
+                "Recover",
+                "Thunder Wave"
+            ],
+            "index": 183
+        }
+    },
+    "Tangrowth": {
+        "Picnicker Sophie": {
+            "level": 38,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Regenerator",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Power Whip",
+                "Knock Off",
+                "Sludge Bomb",
+                "Leaf Storm"
+            ],
+            "index": 184
+        }
+    },
+    "Falinks": {
+        "Picnicker Sophie": {
+            "level": 38,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "First Impression",
+                "Close Combat",
+                "Knock Off",
+                "Poison Jab"
+            ],
+            "index": 185
+        }
+    },
+    "Arcanine": {
+        "Picnicker Sophie": {
+            "level": 39,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Intimidate",
+            "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Play Rough",
+                "Flamethrower",
+                "Extreme Speed"
+            ],
+            "index": 186
+        }
+    },
+    "Skuntank": {
+        "Picnicker Sophie": {
+            "level": 39,
+            "ivs": null,
+            "item": "Fairy Gem",
+            "ability": "Keen Eye",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Flamethrower",
+                "Sucker Punch",
+                "Play Rough"
+            ],
+            "index": 187
+        }
+    },
+    "Steelix": {
+        "Hiker Dudley": {
+            "level": 38,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Tail",
+                "Stone Edge",
+                "High Horsepower",
+                "Stealth Rock"
+            ],
+            "index": 188
+        }
+    },
+    "Barbaracle": {
+        "Hiker Dudley": {
+            "level": 38,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Tough Claws",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Poison Jab",
+                "Drill Run",
+                "Agility"
+            ],
+            "index": 189
+        }
+    },
+    "Flygon": {
+        "Hiker Dudley": {
+            "level": 38,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Levitate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Darts",
+                "Earthquake"
+            ],
+            "index": 190
+        }
+    },
+    "Machamp": {
+        "Super Nerd Cooper": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "No Guard",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dynamic Punch",
+                "Stone Edge",
+                "Bulk Up",
+                "Mega Kick"
+            ],
+            "index": 191
+        }
+    },
+    "Heatmor": {
+        "Super Nerd Cooper": {
+            "level": 38,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "White Smoke",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Aura Sphere",
+                "Scorching Sands",
+                "Solar Beam"
+            ],
+            "index": 192
+        }
+    },
+    "Cacturne": {
+        "Super Nerd Cooper": {
+            "level": 39,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Water Absorb",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Spiky Shield",
+                "Needle Arm",
+                "Drain Punch",
+                "Poison Jab"
+            ],
+            "index": 193
+        }
+    },
+    "Yanmega": {
+        "Super Nerd Cooper": {
+            "level": 39,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Speed Boost",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Air Slash",
+                "Bug Buzz",
+                "Detect",
+                "Substitute"
+            ],
+            "index": 194
+        }
+    },
+    "Pidgeot": {
+        "Picnicker Ariana + Leah": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Big Pecks",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Tailwind",
+                "Heat Wave",
+                "Brave Bird",
+                "Hyper Voice"
+            ],
+            "index": 195
+        }
+    },
+    "Staraptor": {
+        "Picnicker Ariana + Leah": {
+            "level": 38,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Brave Bird",
+                "U-turn",
+                "Take Down"
+            ],
+            "index": 196
+        }
+    },
+    "Marowak-Alola": {
+        "Picnicker Ariana + Leah": {
+            "level": 39,
+            "ivs": null,
+            "item": "Thick Club",
+            "ability": "Lightning Rod",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Bone",
+                "Bonemerang",
+                "Flare Blitz",
+                "Double-Edge"
+            ],
+            "index": 197
+        }
+    },
+    "Zebstrika": {
+        "Picnicker Ariana + Leah": {
+            "level": 39,
+            "ivs": null,
+            "item": "Magnet",
+            "ability": "Motor Drive",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Wild Charge",
+                "Low Kick",
+                "Bounce"
+            ],
+            "index": 198
+        }
+    },
+    "Hippowdon": {
+        "Picnicker Dana": {
+            "level": 38,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Sand Force",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Ice Fang",
+                "Crunch",
+                "Stone Edge"
+            ],
+            "index": 199
+        }
+    },
+    "Sawsbuck": {
+        "Picnicker Dana": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Serene Grace",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Zen Headbutt",
+                "Bounce",
+                "Take Down"
+            ],
+            "index": 200
+        }
+    },
+    "Primeape": {
+        "Picnicker Dana": {
+            "level": 38,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Cross Chop",
+                "Rage Fist",
+                "Stone Edge",
+                "Focus Energy"
+            ],
+            "index": 201
+        }
+    },
+    "Mr. Rime": {
+        "Lass Julia": {
+            "level": 42,
+            "ivs": null,
+            "item": "Tanga Berry",
+            "ability": "Tangled Feet",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Beam",
+                "Psyshock",
+                "Teeter Dance",
+                "Thunder Wave"
+            ],
+            "index": 202
+        }
+    },
+    "Slowbro": {
+        "Lass Julia": {
+            "level": 42,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Oblivious",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Surf",
+                "Calm Mind",
+                "Slack Off"
+            ],
+            "index": 203
+        }
+    },
+    "Electabuzz": {
+        "Old Man Rich": {
+            "level": 38,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Static",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Psychic",
+                "Charge Beam",
+                "Low Kick"
+            ],
+            "index": 204
+        }
+    },
+    "Jynx": {
+        "Old Man Rich": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Rain Dish",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Focus Blast",
+                "Ice Beam",
+                "Sweet Kiss"
+            ],
+            "index": 205
+        }
+    },
+    "Magmar": {
+        "Old Man Rich": {
+            "level": 38,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Flame Body",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Scorching Sands",
+                "Flamethrower",
+                "Poison Jab"
+            ],
+            "index": 206
+        }
+    },
+    "Fearow": {
+        "Old Man Rich": {
+            "level": 38,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Sniper",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brave Bird",
+                "Drill Run",
+                "Take Down",
+                "Agility"
+            ],
+            "index": 207
+        }
+    },
+    "Musharna": {
+        "Twins Anne&Eli": {
+            "level": 38,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Covert Cloak",
+            "ability": "Telepathy",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Trick Room",
+                "Psychic",
+                "Moonblast",
+                "Yawn"
+            ],
+            "index": 208
+        }
+    },
+    "Copperajah": {
+        "Twins Anne&Eli": {
+            "level": 38,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "White Herb",
+            "ability": "Sheer Force",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Headlong Rush",
+                "Superpower",
+                "Play Rough"
+            ],
+            "index": 209
+        }
+    },
+    "Rhyperior": {
+        "Twins Anne&Eli": {
+            "level": 38,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Muscle Band",
+            "ability": "Solid Rock",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hammer Arm",
+                "High Horsepower",
+                "Stone Edge",
+                "Megahorn"
+            ],
+            "index": 210
+        }
+    },
+    "Dragalge": {
+        "Twins Anne&Eli": {
+            "level": 38,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Leftovers",
+            "ability": "Poison Point",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Toxic",
+                "Protect",
+                "Sludge Bomb",
+                "Dragon Pulse"
+            ],
+            "index": 211
+        }
+    },
+    "Conkeldurr": {
+        "Twins Anne&Eli": {
+            "level": 38,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Lum Berry",
+            "ability": "Iron Fist",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Hammer Arm",
+                "Fire Punch",
+                "Thunder Punch"
+            ],
+            "index": 212
+        }
+    },
+    "Rapidash": {
+        "Biker Jaren": {
+            "level": 38,
+            "ivs": null,
+            "item": "Soft Sand",
+            "ability": "Flame Body",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flare Blitz",
+                "High Horsepower",
+                "Megahorn",
+                "Play Rough"
+            ],
+            "index": 213
+        }
+    },
+    "Ninjask": {
+        "Biker Jaren": {
+            "level": 38,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Infiltrator",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "U-turn"
+            ],
+            "index": 214
+        }
+    },
+    "Hitmonlee": {
+        "Biker Jaren": {
+            "level": 38,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Unburden",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fake Out",
+                "Close Combat",
+                "Reversal",
+                "Blaze Kick"
+            ],
+            "index": 215
+        }
+    },
+    "Revavroom": {
+        "Biker Jaren": {
+            "level": 38,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Filter",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Spin Out",
+                "Zen Headbutt",
+                "Poison Jab"
+            ],
+            "index": 216
+        }
+    },
+    "Cyclizar": {
+        "Biker Ricardo": {
+            "level": 38,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Shed Skin",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shed Tail",
+                "Dragon Pulse",
+                "Hyper Voice",
+                "U-turn"
+            ],
+            "index": 217
+        }
+    },
+    "Luxray": {
+        "Biker Ricardo": {
+            "level": 38,
+            "ivs": null,
+            "item": "Ice Gem",
+            "ability": "Strong Jaw",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Fang",
+                "Crunch",
+                "Ice Fang",
+                "Howl"
+            ],
+            "index": 218
+        }
+    },
+    "Sharpedo": {
+        "Biker Ricardo": {
+            "level": 38,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Strong Jaw",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Crunch",
+                "Ice Fang",
+                "Aqua Jet",
+                "Liquidation"
+            ],
+            "index": 219
+        }
+    },
+    "Farigiraf": {
+        "Biker Ricardo": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Cud Chew",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Twin Beam",
+                "Mirror Coat",
+                "Energy Ball"
+            ],
+            "index": 220
+        }
+    },
+    "Tauros": {
+        "Old Man Stan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Take Down",
+                "Zen Headbutt",
+                "Close Combat",
+                "High Horsepower"
+            ],
+            "index": 221
+        }
+    },
+    "Gyarados": {
+        "Old Man Stan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Waterfall",
+                "Bounce",
+                "Ice Fang",
+                "Dragon Dance"
+            ],
+            "index": 222
+        }
+    },
+    "Stoutland": {
+        "Old Man Stan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Psychic Fangs",
+                "Crunch",
+                "Howl"
+            ],
+            "index": 223
+        }
+    },
+    "Houndoom": {
+        "Old Man Stan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Intimidate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dark Pulse",
+                "Flamethrower",
+                "Sucker Punch",
+                "Hyper Voice"
+            ],
+            "index": 224
+        }
+    },
+    "Cradily": {
+        "Lass Kay": {
+            "level": 38,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Storm Drain",
+            "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Power Gem",
+                "Recover",
+                "Energy Ball",
+                "Stealth Rock"
+            ],
+            "index": 225
+        }
+    },
+    "Florges": {
+        "Lass Kay": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Flower Veil",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Draining Kiss",
+                "Alluring Voice",
+                "Energy Ball",
+                "Calm Mind"
+            ],
+            "index": 226
+        }
+    },
+    "Rotom-Mow": {
+        "Lass Kay": {
+            "level": 38,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Thunderbolt",
+                "Volt Switch",
+                "Thunder Wave"
+            ],
+            "index": 227
+        }
+    },
+    "Flapple": {
+        "Lass Kay": {
+            "level": 40,
+            "ivs": null,
+            "item": "Starf Berry",
+            "ability": "Ripen",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Rush",
+                "Grav Apple",
+                "Dragon Dance",
+                "Acrobatics"
+            ],
+            "index": 228
+        }
+    },
+    "Serperior": {
+        "Beauty Bridget": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Contrary",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Glare",
+                "Dragon Pulse",
+                "Leech Seed"
+            ],
+            "index": 229
+        }
+    },
+    "Gardevoir": {
+        "Beauty Bridget": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Telepathy",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mystical Fire",
+                "Psychic",
+                "Moonblast",
+                "Calm Mind"
+            ],
+            "index": 230
+        }
+    },
+    "Amoonguss": {
+        "Beauty Bridget": {
+            "level": 38,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Effect Spore",
+            "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Giga Drain",
+                "Pollen Puff",
+                "Spore"
+            ],
+            "index": 231
+        }
+    },
+    "Toucannon": {
+        "Beauty Bridget": {
+            "level": 39,
+            "ivs": null,
+            "item": "King's Rock",
+            "ability": "Skill Link",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Blast",
+                "Pin Missile",
+                "Bone Rush",
+                "Bullet Seed"
+            ],
+            "index": 232
+        }
+    },
+    "Silvally-Grass": {
+        "Cooltrainer Mary": {
+            "level": 40,
+            "ivs": null,
+            "item": "Grass Memory",
+            "ability": "Rks System",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Multi-Attack",
+                "X-Scissor",
+                "Rock Slide",
+                "Tri Attack"
+            ],
+            "index": 233
+        }
+    },
+    "Gourgeist": {
+        "Cooltrainer Mary": {
+            "level": 40,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Insomnia",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Shadow Ball",
+                "Shadow Sneak",
+                "Explosion"
+            ],
+            "index": 234
+        }
+    },
+    "Calyrex": {
+        "Cooltrainer Mary": {
+            "level": 40,
+            "ivs": null,
+            "item": "Tanga Berry",
+            "ability": "Unnerve",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Psychic",
+                "Calm Mind",
+                "Pollen Puff"
+            ],
+            "index": 235
+        }
+    },
+    "Tsareena": {
+        "Cooltrainer Mary": {
+            "level": 40,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Queenly Majesty",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Trop Kick",
+                "Knock Off",
+                "Triple Axel",
+                "High Jump Kick"
+            ],
+            "index": 236
+        }
+    },
+    "Wormadam": {
+        "Picnicker Tina": {
+            "level": 40,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Overcoat",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Bug Buzz",
+                "Psychic",
+                "Giga Drain"
+            ],
+            "index": 237
+        }
+    },
+    "Wormadam-Trash": {
+        "Picnicker Tina": {
+            "level": 40,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Overcoat",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Infestation",
+                "Protect",
+                "Metal Burst"
+            ],
+            "index": 238
+        }
+    },
+    "Wormadam-Sandy": {
+        "Picnicker Tina": {
+            "level": 40,
+            "ivs": null,
+            "item": "Rock Gem",
+            "ability": "Overcoat",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Rock Blast",
+                "Infestation",
+                "Fissure"
+            ],
+            "index": 239
+        }
+    },
+    "Mothim": {
+        "Picnicker Tina": {
+            "level": 40,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Tinted Lens",
+            "nature": "Lonely",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Buzz",
+                "Acrobatics",
+                "Giga Drain",
+                "Sucker Punch"
+            ],
+            "index": 240
+        }
+    },
+    "Vileplume": {
+        "Beauty Tamia": {
+            "level": 40,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Effect Spore",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Giga Drain",
+                "Moonlight",
+                "Moonblast"
+            ],
+            "index": 241
+        }
+    },
+    "Tropius": {
+        "Beauty Tamia": {
+            "level": 40,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Harvest",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Air Slash",
+                "Earthquake",
+                "Dragon Pulse",
+                "Energy Ball"
+            ],
+            "index": 242
+        }
+    },
+    "Ferrothorn": {
+        "Beauty Tamia": {
+            "level": 40,
+            "ivs": null,
+            "item": "Rocky Helmet",
+            "ability": "Iron Barbs",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Power Whip",
+                "Gyro Ball",
+                "Thunder Wave",
+                "Explosion"
+            ],
+            "index": 243
+        }
+    },
+    "Meganium": {
+        "Beauty Tamia": {
+            "level": 40,
+            "ivs": null,
+            "item": "Miracle Seed",
+            "ability": "Thick Fat",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Earthquake",
+                "Body Slam",
+                "Trailblaze"
+            ],
+            "index": 244
+        }
+    },
+    "Torkoal": {
+        "Beauty Lori + Lass Lisa": {
+            "level": 40,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Drought",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Heat Wave",
+                "Body Press",
+                "Scorching Sands",
+                "Stealth Rock"
+            ],
+            "index": 245
+        }
+    },
+    "Castform": {
+        "Beauty Lori + Lass Lisa": {
+            "level": 40,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Forecast",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Blast",
+                "Thunderbolt",
+                "Ice Beam",
+                "Energy Ball"
+            ],
+            "index": 246
+        }
+    },
+    "Cherrim": {
+        "Beauty Lori + Lass Lisa": {
+            "level": 41,
+            "ivs": null,
+            "item": "Miracle Seed",
+            "ability": "Flower Gift",
+            "nature": "Lonely",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Solar Blade",
+                "Weather Ball",
+                "Play Rough",
+                "X-Scissor"
+            ],
+            "index": 247
+        }
+    },
+    "Maractus": {
+        "Beauty Lori + Lass Lisa": {
+            "level": 41,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Chlorophyll",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Weather Ball",
+                "Spiky Shield",
+                "Sludge Bomb"
+            ],
+            "index": 248
+        }
+    },
+    "Venusaur": {
+        "Beauty Lori + Lass Lisa": {
+            "level": 39,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Chlorophyll",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Synthesis",
+                "Earthquake",
+                "Weather Ball"
+            ],
+            "index": 249
+        }
+    },
+    "Rillaboom": {
+        "Erika": {
+            "level": 41,
+            "ivs": null,
+            "item": "Terrain Extender",
+            "ability": "Grassy Surge",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Grassy Glide",
+                "Fake Out",
+                "Drum Beating",
+                "U-turn"
+            ],
+            "index": 250
+        }
+    },
+    "Crobat": {
+        "Erika": {
+            "level": 41,
+            "ivs": null,
+            "item": "Grassy Seed",
+            "ability": "Inner Focus",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Acrobatics",
+                "Leech Life",
+                "Cross Poison",
+                "Steel Wing"
+            ],
+            "index": 251
+        }
+    },
+    "Kartana": {
+        "Erika": {
+            "level": 41,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Beast Boost",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Blade",
+                "Smart Strike",
+                "X-Scissor",
+                "Night Slash"
+            ],
+            "index": 252
+        }
+    },
+    "Roserade": {
+        "Erika": {
+            "level": 41,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Technician",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Grass Knot",
+                "Extrasensory",
+                "Dazzling Gleam"
+            ],
+            "index": 253
+        }
+    },
+    "Virizion": {
+        "Erika": {
+            "level": 41,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Justified",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Blade",
+                "Sacred Sword",
+                "Swords Dance",
+                "X-Scissor"
+            ],
+            "index": 254
+        }
+    },
+    "Sceptile-Mega": {
+        "Erika": {
+            "level": 42,
+            "ivs": null,
+            "item": "Sceptilite",
+            "ability": "Lightning Rod",
+            "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Dragon Pulse",
+                "Earthquake",
+                "Drain Punch"
+            ],
+            "index": 255
+        }
+    }
+
 }
