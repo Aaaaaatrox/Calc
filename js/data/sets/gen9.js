@@ -4639,6 +4639,23 @@ var SETDEX_SV = {
             ],
             "index": 255
         }
+    },
+    "Gyarados-Mega": {
+        "Ben": {
+            "level": 42,
+            "ivs": null,
+            "item": "Gyaradosite",
+            "ability": "Mold Breaker",
+            "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Dragon Pulse",
+                "Earthquake",
+                "Drain Punch"
+            ],
+            "index": 256
+        }
     }
-
 }
